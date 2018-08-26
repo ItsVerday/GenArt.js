@@ -19,7 +19,7 @@ Once you reference the new file in your html file, you’re good to go!
 # Examples
 
 ## Snowflakes - Generates geometric snowflakes 
-[Link to code](../blob/master/examples/snowflakes.js)
+[Link to code](../master/examples/snowflakes.js)
 
 # Reference
 
