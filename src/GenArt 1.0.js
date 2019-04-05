@@ -150,12 +150,7 @@
 
             this.element = document.createElement("div");
 
-            this.element.style.position = "absolute";
-            this.element.style.top = 0;
-            this.element.style.bottom = 0;
-            this.element.style.left = 0;
-            this.element.style.right = 0;
-            this.element.style.margin = "auto";
+            this.element.style.margin = "auto auto";
             this.element.style.width = this.width;
             this.element.style.height = this.height + 24;
             this.element.style.backgroundColor = "#ffffff";
